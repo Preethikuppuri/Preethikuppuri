@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Preethi kuppuri
-- 👀 I’m interested in creating innovative ideas
-- 🌱 I’m currently learning Machine Learning
+# Hi there 👋, I'm Preethika  
 
-
-<!---
-Preethikuppuri/Preethikuppuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master's Student in Data Science at UMBC  
+💻 Passionate about AI, Machine Learning & Data Engineering  
+🌱 Currently learning: Cloud Deployment (AWS/GCP) & Advanced ML  
+📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/preethika-kuppuri)  
+- [Email](mailto:yourmail@example.com)  
